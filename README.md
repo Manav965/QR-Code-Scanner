@@ -7,6 +7,7 @@ following  KEY concepts were used to build this app.**
 1.Firebase for managing the  login ,logout of user account .<br/>
 2. Code scanner library for Android, based on ZXing,for incorporating the Qr code scanning feature.<br/>
 3.Dexter library for requesting permissions during runtime.<br/>
+4.Implemented Alert diaglogs to prompt the user to change the password and email adress and also to delete their account.<br/>
 
 ***
 
