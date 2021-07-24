@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173373640535",
+    "project_id": "authscan-2f5dd",
+    "storage_bucket": "authscan-2f5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173373640535:android:8dfea0b2075a941443f812",
+        "android_client_info": {
+          "package_name": "com.example.authscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173373640535-rhq8su9m06gadg6dar10625hg72n238q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rS2VhFBADQUDFvKQDVifADvqTyFEAzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173373640535-rhq8su9m06gadg6dar10625hg72n238q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
