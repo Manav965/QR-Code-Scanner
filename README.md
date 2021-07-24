@@ -17,6 +17,8 @@ following  KEY concepts were used to build this app.**
 3.Allows user to to scan Qr code only after assuring that camera permission has been granted.<br/>
 
 **FEW IMAGES OF THE APPLICATION**
-<img src="images/R1.jpg" width =400 height=500>
-<img src="images/R2.jpg" width =400 height=500>
-<img src="images/R3.jpg" width =400 height=500>
+<br/>
+<img src="Authpics/Screenshot_20210720-225020_Authscan.jpg" width =400 height=500>
+<img src="Authpics/Screenshot_20210720-225009_Authscan.jpg" width =400 height=500>
+<img src="Authpics/Screenshot_20210720-225941_Authscan.jpg" width =400 height=500>
+<img src="Authpics/Screenshot_20210720-224953_Authscan.jpg" width =400 height=500>
